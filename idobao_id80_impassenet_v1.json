@@ -1,24 +1,7 @@
 {
   "name": "IDOBAO ID80",
   "vendorProductId": 1768161408,
-  "macros": [
-    "sudo dnf update",
-    "sudo dnf upgrade\n",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
       "KC_LCTL",
@@ -187,7 +170,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "MACRO01",
+      "KC_TRNS",
       "KC_TRNS",
       "BL_INC",
       "KC_TRNS",
@@ -209,7 +192,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "MACRO00",
+      "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
